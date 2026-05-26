@@ -22,10 +22,10 @@ Currently Exploring:
   - Creative Web Experiences
 
 Goals:
-  - Build impactful applications
-  - Master full stack development
-  - Create beautiful user interfaces
-  - Keep improving every single day
+  - Debug without creating 67 new problems
+  - Keep improving one commit at a time
+  - Grow into a creative and adaptable developer
+  - Build meaningful and impactful application
 
 ```
 
