@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Hi%20👋,%20I'm%20Dhaiku&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Adapting%20•%20Creative%20Coder%20•%20Tech%20Enthusiast&descAlignY=65&color=0:001F54,25:034078,50:1282A2,75:00A6FB,100:00B4FF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=850&lines=Aspiring+Developer;Creative+Coder;Tech+Enthusiast;Building+Projects+One+Commit+At+A+Time;Always+Learning+New+Technologies;Dream.+Code.+Build.+Repeat." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3200&pause=1400&color=00BFFF&center=true&vCenter=true&width=1100&height=90&lines=Currently+learning+to+do+better.;Improving+one+project+at+a+time.;Adapting+to+new+technologies.;Building+skills+through+experience.;Still+learning.+Still+creating.;Status%3A+Evolving." />
 
 </div>
 
