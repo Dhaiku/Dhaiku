@@ -12,8 +12,7 @@
 
 ```yaml
 Name: Dhaiku
-Role: Aspiring Full Stack Developer
-Location: Philippines 🇵🇭
+Role: Aspiring Developer Savvy
 
 Currently Exploring:
   - Modern Frontend Development
@@ -48,6 +47,7 @@ Mindset:
 
 </div>
 
+
 ---
 
 # ⚡ Tech Arsenal
@@ -60,13 +60,14 @@ Mindset:
 
 ---
 
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhaiku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhaiku&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaiku&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaiku&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
 
 </div>
 
