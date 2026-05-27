@@ -11,7 +11,6 @@
 # 🌌 About Me
 
 ```yaml
-Name: Dhaiku
 Role: Aspiring Developer Savvy
 
 Currently Exploring:
