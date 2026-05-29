@@ -11,8 +11,6 @@
 # 🌌 About Me
 
 ```yaml
-Role: Aspiring Developer Savvy
-
 Currently Exploring:
   - Modern Frontend Development
   - Backend Architecture
