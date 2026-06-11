@@ -48,7 +48,7 @@ Goals:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,javascript,python,php,nodejs,react,mongodb,mysql,html,css,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,java,javascript,python,php,nodejs,react,mongodb,mysql,html,css&theme=dark" />
 
 </div>
 
