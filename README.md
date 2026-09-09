@@ -12,15 +12,12 @@
 
 ```yaml
 Currently Exploring:
-  - Modern Frontend Development
-  - Backend Architecture
-  - UI/UX Design
+  - Networking
   - Database Systems
   - Creative Web Experiences
 
-Goals:
+Goal:
   - Keep improving one commit at a time
-  - Grow into a creative and adaptable developer
 
 ```
 
