@@ -8,7 +8,7 @@
 
 ---
 
-# 🌌 About Me
+# About Me
 
 ```yaml
 Currently Exploring:
@@ -23,7 +23,7 @@ Goal:
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Goal:
 ---
 
 
-# ⚡ Techstack
+#  Techstack
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Goal:
 ---
 
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Goal:
 
 ---
 
-# 📜 Dev Quotes
+#  Dev Quotes
 
 <div align="center">
 
@@ -73,7 +73,7 @@ Goal:
 
 ---
 
-# 🌊 Contribution Graph
+#  Contribution Graph
 
 <div align="center">
 
