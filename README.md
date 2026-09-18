@@ -31,9 +31,6 @@ Goal:
   <img src="https://img.shields.io/badge/Instagram-001F54?style=for-the-badge&logo=instagram&logoColor=00BFFF"/>
 </a>
 
-<a href="https://github.com/Dhaiku" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-034078?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
