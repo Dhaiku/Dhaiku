@@ -84,16 +84,6 @@ Goal:
 
 ---
 
-#  Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhaiku&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00BFFF&line=00BFFF&point=FFFFFF"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Dhaiku&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge"/>
