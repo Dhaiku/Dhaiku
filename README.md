@@ -27,8 +27,8 @@ Goal:
 
 <div align="center">
 
-<a href="mailto:cabilladanielvincent@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-001F54?style=for-the-badge&logo=gmail&logoColor=00BFFF"/>
+<a href="https://discord.com/users/581084204293554197" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-001F54?style=for-the-badge&logo=discord&logoColor=00BFFF"/>
 </a>
 
 </div>
