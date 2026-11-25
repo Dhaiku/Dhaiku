@@ -23,14 +23,13 @@ Goal:
 
 ---
 
-#  Connect With Me
+# Connect With Me
 
 <div align="center">
 
-<a href="https://www.instagram.com/d.vinxent/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-001F54?style=for-the-badge&logo=instagram&logoColor=00BFFF"/>
+<a href="mailto:cabilladanielvincent@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-001F54?style=for-the-badge&logo=gmail&logoColor=00BFFF"/>
 </a>
-
 
 </div>
 
